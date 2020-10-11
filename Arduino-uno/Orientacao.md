@@ -1,4 +1,4 @@
-### Arduino Workshop
+# Arduino Workshop
 
 ## Como se Organizar
 
